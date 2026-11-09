@@ -21,10 +21,10 @@ I recently wrote the multi-platform, pure C, no-dependencies version of the [Cop
 
 | | |
 |:--|:--|
-| **[klattsch](https://github.com/tgies/klattsch)** &nbsp;`340+ ★` | A parallel-formant speech synthesizer that runs in the browser, built from 1980 DSP papers as a joke. Then it [got loose](https://www.dexerto.com/entertainment/1980s-text-to-speech-app-goes-viral-after-fans-turn-it-into-hatsune-mike-and-daft-punk-machine-3361677/): 9M+ impressions on the launch post, trended on X, and adopted by the Vocaloid scene as an actual instrument. [Try it.](https://tgies.github.io/klattsch/) |
+| **[klattsch](https://github.com/tgies/klattsch)** &nbsp;`340+ ★` | A parallel-formant speech synthesizer that runs in the browser, built from 1980 DSP papers as a joke. Then it [got loose](https://www.dexerto.com/entertainment/1980s-text-to-speech-app-goes-viral-after-fans-turn-it-into-hatsune-mike-and-daft-punk-machine-3361677/), trended on X, and was adopted by the Vocaloid scene as an actual instrument. [Try it.](https://tgies.github.io/klattsch/) |
 | **[copy-fail-c](https://github.com/tgies/copy-fail-c)** &nbsp;`400+ ★` | Portable C port of CVE-2026-31431 (Copy Fail, a Linux local privilege escalation). Cited in Florian Roth's `signature-base` YARA detection rules, among others. |
-| **[client-certificate-auth](https://github.com/tgies/client-certificate-auth)** | Node.js mTLS middleware, [recommended in the AWS API Gateway docs](https://docs.aws.amazon.com/apigateway/latest/developerguide/getting-started-client-side-ssl-authentication.html). 270K+ npm installs, maintained since 2013. |
-| **[Nuked-OPL3-fast](https://github.com/tgies/Nuked-OPL3-fast)** | Hand-optimized OPL3 FM-synthesis emulator: 1.4 to 2.2x faster and still bit-exact. Pulled upstream into dosbox-staging, DOSBox-X, 86Box, and more. |
+| **[client-certificate-auth](https://github.com/tgies/client-certificate-auth)** | Node.js mTLS middleware, [recommended in the AWS API Gateway docs](https://docs.aws.amazon.com/apigateway/latest/developerguide/getting-started-client-side-ssl-authentication.html). 270K+ npm installs. Maintained since 2013. |
+| **[Nuked-OPL3-fast](https://github.com/tgies/Nuked-OPL3-fast)** | Hand-optimized OPL3 FM-synthesis emulator. 1.4 to 2.2x faster and still bit-exact. Pulled upstream into dosbox-staging, DOSBox-X, 86Box, and more. |
 | **[uls](https://github.com/tgies/uls)** | Rust toolkit for FCC ULS license data. |
 | **[The GPG Guide 2026](https://leanpub.com/gpg-guide)** | A 376-page guide to modern GnuPG. |
 
